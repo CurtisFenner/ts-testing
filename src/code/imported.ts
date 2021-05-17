@@ -4,6 +4,6 @@ export function good() {
 }
 
 export function messUp() {
-	throw new Error("bad");
+	// throw new Error("bad");
 	console.log("messUp(): passed.");
 }
