@@ -1,0 +1,6 @@
+{
+	"scripts": {
+		"test": "node --enable-source-maps built/code/test.js",
+		"build": "tsc"
+	}
+}
